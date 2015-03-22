@@ -15,7 +15,8 @@ To complete
 - filter tasks by "All", "Active", "Complete"
 - display a total number of tasks
 - clear completed tasks
-- set up and test with protractor
+- set up and test with Protractor
+- deploy to Heroku
 
 Technologies used
 ----
