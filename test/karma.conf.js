@@ -1,6 +1,6 @@
 // Karma configuration
 // http://karma-runner.github.io/0.12/config/configuration-file.html
-// Generated on 2015-03-21 using
+// Generated on 2015-03-22 using
 // generator-karma 0.9.0
 
 module.exports = function(config) {
@@ -29,6 +29,7 @@ module.exports = function(config) {
       'bower_components/jquery/dist/jquery.js',
       'bower_components/jquery-ui/jquery-ui.js',
       'bower_components/angular-ui-sortable/sortable.js',
+      'bower_components/angular-local-storage/dist/angular-local-storage.js',
       'app/scripts/**/*.js',
       'test/mock/**/*.js',
       'test/spec/**/*.js'
