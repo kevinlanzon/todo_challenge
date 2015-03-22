@@ -2,9 +2,6 @@
 
 [![Build Status](https://travis-ci.org/kevinlanzon/todo_challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/todo_challenge)
 
-addons:
-  code_climate:
-    repo_token:
     
 
 * Deadline: submit completed pull request by 9am on Monday
