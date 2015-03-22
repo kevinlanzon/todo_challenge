@@ -4,11 +4,11 @@ Todo List in AngularJS   [![Build Status](https://travis-ci.org/kevinlanzon/todo
 
 Tasks
 ----
--  [x]store todo tasks
--  [x]update todo list
--  [x]remove tasks from list
--  [x]add Bootstrap CSS
--  [x]set up LocalStorage
+-  [x] store todo tasks
+-  [x] update todo list
+-  [x] remove tasks from list
+-  [x] add Bootstrap CSS
+-  [x] set up LocalStorage
 
 To complete
 ----
@@ -33,7 +33,7 @@ Technologies used
 Screenshot
 ---
 <div align="center">
-        <img width="40%" src="images/2015-03-22 at 22.31.43 (2).png">
+        <img width="40%" src="/app/images/Screen Shot 2015-03-22 at 22.31.43 (2).png">
 </div>
 
 
