@@ -1,63 +1,60 @@
-# Todo Challenge
+Todo List in AngularJS   [![Build Status](https://travis-ci.org/kevinlanzon/todo_challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/todo_challenge)
+==========
+[Makers Academy](http://www.makersacademy.com) Week 7 Challenge
 
-[![Build Status](https://travis-ci.org/kevinlanzon/todo_challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/todo_challenge)
+Tasks
+----
+-  [x]store todo tasks
+-  [x]update todo list
+-  [x]remove tasks from list
+-  [x]add Bootstrap CSS
+-  [x]set up LocalStorage
 
-    
+To complete
+----
+- filter tasks by "All", "Active", "Complete"
+- display a total number of tasks
+- clear completed tasks
 
-* Deadline: submit completed pull request by 9am on Monday
-* You may use whatever level of JavaScript you feel comfortable with - pure JS, jQuery, Angular, or whatever weird and wonderful framework you want to try. Extra points for DogeScript
+Technologies used
+----
+- AngularJS
+- JavaScript
+- Karma
+- Jasmine
+- Yeoman Seed
+- Grunt CLI
+- Html
+- CSS
+- Git
+- Sublime Text
 
-## Challenge
 
-![Todo mockup](https://makersacademy.mybalsamiq.com/mockups/2914603.png?key=afabb09aef2901a2732515ae4349c1ec0458294b)
+Screenshot
+---
+<div align="center">
+        <img width="40%" src="images/2015-03-22 at 22.31.43 (2).png">
+</div>
 
-Build a Todo list as a mini front-end application. You don't have to use a database, the front-end is more important - you can use an appropriate data structure stored somewhere in your JavaScript (this time only!)
 
-Here are the core user stories:
-
-```
-As a forgetful person
-I want to store my tasks
-So that I don't forget them
-
-As a person with limited time
-I want to instantly be able to update my todo list (adding and changing entries)
-So that I have more time to think about other things
-
-As a person who actually gets stuff done
-I want to mark my tasks as done
-So that I don't do them twice
-```
-
-Here are some other user stories you may choose to implement:
-
-```
-As a person with a lot of tasks
-I want to be able to filter my tasks by "All", "Active", "Complete"
-So that I only see the relevant tasks
-
-As a person who doesn't like counting by hand
-I want to see a total number of tasks
-So that I don't have to count
-
-As someone who has done lots of stuff
-I want to be able to clear my completed tasks
-So I never see them again
+How to clone this repo
+----
+```sh
+git clone git@github.com:kevinlanzon/todo_challenge.git
 ```
 
-As you may imagine, implementing a To-do list is very much a solved problem. However, we are mainly interested in seeing how you approach testing and design. We are looking for:
+How to run
+----
+```sh
+bower install
+npm install
+grunt serve
 
-* well written, well structured acceptance and unit tests
-* clear and expressive JavaScript
-* good HTML5 markup
+```
 
-Don't worry about deployment, and make sure you read the CONTRIBUTING.md when submitting a pull request.
-
-## Extensions
-
-* Deploy the app
-* Create a persistance layer (e.g. MongoDB), or use LocalStorage or the filesystem through Node
-* Make it look purdy (CSS) - try a framework like Bootstrap or Foundation
-
-Good luck!
-
+How to run tests
+----
+```sh
+cd todo_challenge
+grunt test
+```
