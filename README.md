@@ -1,5 +1,7 @@
 # Todo Challenge
 
+[![Build Status](https://travis-ci.org/kevinlanzon/todo_challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/todo_challenge)
+
 * Deadline: submit completed pull request by 9am on Monday
 * You may use whatever level of JavaScript you feel comfortable with - pure JS, jQuery, Angular, or whatever weird and wonderful framework you want to try. Extra points for DogeScript
 
