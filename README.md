@@ -4,6 +4,7 @@ Todo List in AngularJS   [![Build Status](https://travis-ci.org/kevinlanzon/todo
 
 Tasks
 ----
+-  [x] run tests with Protractor and Karma
 -  [x] store todo tasks
 -  [x] update todo list
 -  [x] remove tasks from list
@@ -15,7 +16,6 @@ To complete
 - filter tasks by "All", "Active", "Complete"
 - display a total number of tasks
 - clear completed tasks
-- set up and test with Protractor
 - deploy to Heroku
 
 Technologies used
@@ -24,9 +24,10 @@ Technologies used
 - JavaScript
 - Karma
 - Jasmine
+- Protractor
 - Yeoman Seed
 - Grunt CLI
-- Html
+- HTML
 - CSS
 - Git
 - Sublime Text
