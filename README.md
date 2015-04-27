@@ -1,4 +1,7 @@
-Todo List in AngularJS   [![Build Status](https://travis-ci.org/kevinlanzon/todo_challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/todo_challenge)
+[![Code Climate](https://codeclimate.com/github/kevinlanzon/todo_challenge/badges/gpa.svg)](https://codeclimate.com/github/kevinlanzon/todo_challenge)
+[![Build Status](https://travis-ci.org/kevinlanzon/todo_challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/todo_challenge)
+
+Todo List in AngularJS
 ==========
 [Makers Academy](http://www.makersacademy.com) Week 7 Challenge
 
@@ -22,9 +25,9 @@ Technologies used
 ----
 - AngularJS
 - JavaScript
-- Karma
+- Karma for unit tests
 - Jasmine
-- Protractor
+- Protractor for end to end testing
 - Yeoman Seed
 - Grunt CLI
 - HTML
