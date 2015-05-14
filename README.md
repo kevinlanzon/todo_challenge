@@ -25,8 +25,7 @@ Technologies used
 ----
 - AngularJS
 - JavaScript
-- Karma for unit tests
-- Jasmine
+- Karma-Jasmine for unit tests
 - Protractor for end to end testing
 - Yeoman Seed
 - Grunt CLI
